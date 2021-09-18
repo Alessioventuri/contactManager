@@ -36,6 +36,7 @@ To store the data I used MongoDB , a noSQL database. Docker is used to run Mongo
 ### Run the project
 Before to run the project, you have to create a MongoDB container in Docker and run it.
 Once created, in db.py you can change the parameters with yours to connect your docker, until I'll load the configuration files.
+
 To run the project you have to enter in folder where you have download the project and run contactlist_controller.py  :
 - `cd contactManager`
 - `python contactlist_controller.py`
