@@ -55,7 +55,7 @@ class Ui_MainWindow(object):
         self.notes.setGeometry(QtCore.QRect(200, 310, 221, 81))
         self.notes.setObjectName("notes")
         self.submit = QtWidgets.QPushButton(self.centralwidget)
-        self.submit.setGeometry(QtCore.QRect(10, 10, 71, 32))
+        self.submit.setGeometry(QtCore.QRect(10, 10, 72, 42))
         self.submit.setObjectName("submit")
         self.label_5 = QtWidgets.QLabel(self.centralwidget)
         self.label_5.setGeometry(QtCore.QRect(30, 260, 81, 21))
@@ -77,7 +77,7 @@ class Ui_MainWindow(object):
         self.label_3.setObjectName("label_3")
         
         self.back_button = QtWidgets.QPushButton(self.centralwidget)
-        self.back_button.setGeometry(QtCore.QRect(420, 10, 71, 32))
+        self.back_button.setGeometry(QtCore.QRect(420, 10, 71, 42))
         self.back_button.setObjectName("back_button")
 
         
@@ -85,7 +85,7 @@ class Ui_MainWindow(object):
         self.label.setGeometry(QtCore.QRect(30, 60, 81, 21))
         self.label.setObjectName("label")
         self.delete_button = QtWidgets.QPushButton(self.centralwidget)
-        self.delete_button.setGeometry(QtCore.QRect(160, 420, 171, 31))
+        self.delete_button.setGeometry(QtCore.QRect(160, 420, 200, 42))
         self.delete_button.setObjectName("delete_button")
         self.label_4 = QtWidgets.QLabel(self.centralwidget)
         self.label_4.setGeometry(QtCore.QRect(30, 210, 81, 21))
