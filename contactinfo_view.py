@@ -107,7 +107,7 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate("MainWindow", "MainWindow"))
+        MainWindow.setWindowTitle(_translate("MainWindow", "Contact Info"))
         self.email.setPlaceholderText(_translate("MainWindow", "E-mail"))
         self.first_name.setPlaceholderText(_translate("MainWindow", "First Name"))
         self.submit.setText(_translate("MainWindow", "Save"))
