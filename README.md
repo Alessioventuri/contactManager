@@ -11,8 +11,8 @@ It consists in a Contact Manager application implemented in python.
 ### Screenshot
 
 ![contactlist](img/contactlist.png)
-![contactinfo](img/contactinfo.png)
 ![contactadd](img/contactadd.png)
+![contactinfo](img/contactinfo.png)
 
 ### Implementation
 This application implement the MVC ( Model-View-Controller) pattern where the Model is :
